@@ -1,0 +1,8 @@
+sudo
+bash
+whoami
+cd
+touch
+touch -a
+touch -m
+
